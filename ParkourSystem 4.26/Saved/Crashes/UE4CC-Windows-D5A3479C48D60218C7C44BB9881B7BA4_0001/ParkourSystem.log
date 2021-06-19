@@ -1,0 +1,881 @@
+﻿Log file open, 04/13/20 11:50:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ParkourSystem
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.405103
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.24/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.04.13-10.50.36:813][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.13-10.50.36:813][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.04.13-10.50.36:813][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.04.13-10.50.36:821][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.13-10.50.36:821][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.13-10.50.36:822][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.13-10.50.36:822][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.13-10.50.36:822][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.13-10.50.36:846][  0]LogHAL: Display: Platform has ~ 16 GB [17126236160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.13-10.50.36:846][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.13-10.50.36:846][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:846][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.13-10.50.36:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:848][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.04.13-10.50.36:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.13-10.50.36:848][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.13-10.50.36:857][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.13-10.50.36:857][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.13-10.50.36:857][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.04.13-10.50.36:857][  0]LogInit: Computer: DESKTOP-JUD4AHB
+[2020.04.13-10.50.36:857][  0]LogInit: User: fixte
+[2020.04.13-10.50.36:858][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.13-10.50.36:858][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.13-10.50.36:858][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.13-10.50.36:858][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.13-10.50.36:858][  0]LogMemory: Process Physical Memory: 104.76 MB used, 104.77 MB peak
+[2020.04.13-10.50.36:858][  0]LogMemory: Process Virtual Memory: 99.81 MB used, 99.81 MB peak
+[2020.04.13-10.50.36:858][  0]LogMemory: Physical Memory: 6868.73 MB used,  9464.12 MB free, 16332.85 MB total
+[2020.04.13-10.50.36:858][  0]LogMemory: Virtual Memory: 5121.23 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.04.13-10.50.36:863][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.13-10.50.37:383][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.13-10.50.37:383][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.13-10.50.37:383][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.13-10.50.38:001][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.13-10.50.38:128][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.13-10.50.38:128][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.13-10.50.40:933][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.13-10.50.40:933][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.13-10.50.40:933][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.13-10.50.40:933][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.13-10.50.41:008][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2020.04.13-10.50.41:008][  0]LogD3D11RHI:       4053/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.13-10.50.41:010][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.13-10.50.41:010][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.13-10.50.41:010][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.13-10.50.41:015][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.13-10.50.41:015][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.13-10.50.41:015][  0]LogWindows: EnumDisplayDevices:
+[2020.04.13-10.50.41:015][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2020.04.13-10.50.41:016][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2020.04.13-10.50.41:016][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.04.13-10.50.41:017][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.04.13-10.50.41:017][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.13-10.50.41:017][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2020.04.13-10.50.41:017][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.04.13-10.50.41:017][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.04.13-10.50.41:017][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.04.13-10.50.41:061][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.13-10.50.41:061][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.13-10.50.41:124][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.13-10.50.43:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.13-10.50.43:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.13-10.50.43:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.13-10.50.43:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.13-10.50.44:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.13-10.50.44:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.13-10.50.44:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.13-10.50.44:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.13-10.50.44:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.13-10.50.44:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.13-10.50.44:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.13-10.50.44:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.13-10.50.44:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.13-10.50.44:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.13-10.50.44:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.13-10.50.44:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.13-10.50.44:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.13-10.50.44:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.13-10.50.44:383][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.13-10.50.44:548][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.13-10.50.45:254][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../Unreal/ParkourSystem/Intermediate/Shaders/WorkingDirectory/3324/).
+[2020.04.13-10.50.45:255][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fixte/AppData/Local/Temp/UnrealShaderWorkingDir/D18EEC3948EAB51625AA07925DDD317F/'.
+[2020.04.13-10.50.45:255][  0]LogXGEController: Cleaning working directory: C:/Users/fixte/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.13-10.50.45:255][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.13-10.50.45:255][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.13-10.50.45:255][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.13-10.50.48:204][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.13-10.50.49:215][  0]LogDerivedDataCache: Loaded boot cache 1.01s 78MB C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.13-10.50.49:215][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.13-10.50.49:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/ParkourSystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.13-10.50.49:215][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.13-10.50.49:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/ParkourSystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.13-10.50.49:215][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.13-10.50.49:278][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.13-10.50.49:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.13-10.50.49:279][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.13-10.50.49:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fixte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.13-10.50.49:280][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.13-10.50.49:280][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.13-10.50.49:302][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.13-10.50.49:304][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.13-10.50.49:341][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.13-10.50.49:747][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.04.13-10.50.50:002][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.13-10.50.51:503][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.13-10.50.51:503][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.13-10.50.51:503][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.13-10.50.51:503][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.13-10.50.51:503][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.13-10.50.51:624][  0]LogNetVersion: ParkourSystem 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3892487967)
+[2020.04.13-10.50.57:083][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.044151 seconds
+[2020.04.13-10.50.57:090][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.13-10.50.57:090][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.13-10.50.57:090][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.13-10.51.00:254][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.13-10.51.00:280][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.13-10.51.00:830][  0]SourceControl: Source control is disabled
+[2020.04.13-10.51.00:830][  0]SourceControl: Source control is disabled
+[2020.04.13-10.51.01:170][  0]SourceControl: Source control is disabled
+[2020.04.13-10.51.01:220][  0]SourceControl: Source control is disabled
+[2020.04.13-10.51.01:253][  0]SourceControl: Source control is disabled
+[2020.04.13-10.51.01:324][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.13-10.51.01:324][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.13-10.51.02:832][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.13-10.51.02:952][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.13-10.51.02:952][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.13-10.51.03:531][  0]LogOcInput: OculusInput pre-init called
+[2020.04.13-10.51.03:601][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.13-10.51.03:602][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.13-10.51.03:911][  0]LogEngine: Initializing Engine...
+[2020.04.13-10.51.03:912][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.13-10.51.03:913][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.13-10.51.04:559][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.13-10.51.04:642][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.13-10.51.04:677][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-10.51.04:677][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-10.51.04:677][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-10.51.04:677][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-10.51.04:677][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-10.51.04:677][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-10.51.04:677][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-10.51.04:677][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-10.51.04:677][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-10.51.04:677][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-10.51.04:695][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-10.51.04:719][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.13-10.51.04:722][  0]LogInit: FAudioDevice initialized.
+[2020.04.13-10.51.04:722][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.13-10.51.04:924][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.13-10.51.04:929][  0]LogInit: Texture streaming: Enabled
+[2020.04.13-10.51.05:042][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.13-10.51.05:042][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.13-10.51.05:044][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.13-10.51.05:167][  0]LogInit: Transaction tracking system initialized
+[2020.04.13-10.51.05:357][  0]BlueprintLog: New page: Editor Load
+[2020.04.13-10.51.06:296][  0]LocalizationService: Localization service is disabled
+[2020.04.13-10.51.07:066][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.13-10.51.07:066][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.13-10.51.08:483][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/' took 0.01s
+[2020.04.13-10.51.08:483][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.13-10.51.08:483][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.13-10.51.12:043][  0]SourceControl: Source control is disabled
+[2020.04.13-10.51.12:043][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/ParkourSystem/Content/Environment/Maps/PS_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.13-10.51.12:259][  0]LightingResults: New page: Lighting Build
+[2020.04.13-10.51.12:259][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.13-10.51.12:259][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.13-10.51.12:259][  0]MapCheck: New page: Map Check
+[2020.04.13-10.51.12:260][  0]LightingResults: New page: Lighting Build
+[2020.04.13-10.51.12:282][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.04.13-10.51.17:126][  0]LogAIModule: Creating AISystem for world PS_Map
+[2020.04.13-10.51.17:234][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.13-10.51.17:262][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.04.13-10.51.17:263][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.13-10.51.17:263][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2020.04.13-10.51.17:263][  0]LogFileHelpers: Loading map 'PS_Map' took 5.220
+[2020.04.13-10.51.18:805][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-10.51.18:811][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-10.51.18:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-10.51.18:824][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.13-10.51.18:855][  0]LogCollectionManager: Loaded 0 collections in 0.000706 seconds
+[2020.04.13-10.51.18:866][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Saved/Collections/' took 0.00s
+[2020.04.13-10.51.18:866][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/Developers/fixte/Collections/' took 0.00s
+[2020.04.13-10.51.18:866][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/Collections/' took 0.00s
+[2020.04.13-10.51.18:866][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 3017 classes and 720 folders.
+[2020.04.13-10.51.18:868][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.13-10.51.19:637][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.13-10.51.19:728][  0]LogSlate: Took 0.058853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.13-10.51.19:831][  0]LogSlate: Took 0.100648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.13-10.51.19:846][  0]LogSlate: Took 0.012398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.13-10.51.19:998][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.13-10.51.20:102][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.13-10.51.20:102][  0]LogLoad: (Engine Initialization) Total time: 51.03 seconds
+[2020.04.13-10.51.20:102][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.13-10.51.20:207][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.13-10.51.20:301][  0]LogSlate: Took 0.006879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.13-10.51.21:625][ 21]LogAssetRegistry: Asset discovery search completed in 31.8800 seconds
+[2020.04.13-10.51.21:628][ 21]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.04.13-10.55.03:111][685]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.13-10.55.03:155][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Blueprint/PS_Character.PS_Character
+[2020.04.13-10.55.03:445][685]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.13-10.55.04:504][685]LogSlate: Took 0.010677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.13-10.55.04:632][686]LogSlate: Took 0.005455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.13-10.55.05:824][799]LogSlate: Window 'PS_Character' being destroyed
+[2020.04.13-10.55.16:618][ 72]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim
+[2020.04.13-10.55.16:680][ 72]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.13-10.55.17:109][ 72]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.13-10.55.17:110][ 72]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.04.13-10.55.17:358][ 72]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.13-10.55.18:127][ 72]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.13-10.55.54:281][210]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.04.13-10.55.54:302][210]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.04.13-10.55.54:302][210]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.04.13-10.55.54:302][210]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.04.13-10.55.54:302][210]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.04.13-10.55.54:302][210]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.04.13-10.55.54:303][210]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.04.13-10.55.54:303][210]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:463][210]LogMetaData: Removing '/Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.04.13-10.55.54:558][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE4_Other/Mannequin/Animations/ThirdPersonIdle" FILE="../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonIdle.uasset" SILENT=true
+[2020.04.13-10.55.54:571][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPersonIdleDA380AEC487423FB6BE8D5BBA8B0DD35.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2020.04.13-10.55.54:620][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPersonJump_EndE343B43E46D78A111D0A84B2FF4F3D05.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2020.04.13-10.55.54:664][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPersonJump_LoopB0B8EEB64CE8733C76DE86A9BFCAA8C9.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2020.04.13-10.55.54:713][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPersonJump_Start6B3E8781416B1691B25B3AB302FB11B0.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2020.04.13-10.55.54:743][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE4_Other/Mannequin/Animations/ThirdPersonRun" FILE="../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonRun.uasset" SILENT=true
+[2020.04.13-10.55.54:778][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPersonRun7633168B4BB36A6F24CDAC88257CE748.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonRun.uasset'
+[2020.04.13-10.55.54:817][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE4_Other/Mannequin/Animations/ThirdPersonWalk" FILE="../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonWalk.uasset" SILENT=true
+[2020.04.13-10.55.54:845][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPersonWalkFFF3E3ED4A5A5A713167D8AA2CE1685B.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2020.04.13-10.55.54:937][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPerson_AnimBPE707508A4B0E600672042692F265F330.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2020.04.13-10.55.54:980][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPerson_IdleRun_2DF325D97C4415EB0120BCDEB93A015CEE.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2020.04.13-10.55.55:009][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UE4_Other/Mannequin/Animations/ThirdPerson_Jump" FILE="../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPerson_Jump.uasset" SILENT=true
+[2020.04.13-10.55.55:023][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPerson_JumpCA087699423837B6E50AA88DD4DDB806.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2020.04.13-10.55.56:189][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.04.13-10.55.56:225][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.04.13-10.55.56:257][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.13-10.55.56:289][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.13-10.55.56:322][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.13-10.55.56:353][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.13-10.55.56:388][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.13-10.55.56:421][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.13-10.55.56:453][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.13-10.55.56:490][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.04.13-10.55.56:522][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.13-10.55.56:676][210]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ThirdPersonCharacter81538CA9417B4A34490019A8C09B6392.tmp' to '../../../../../Unreal/ParkourSystem/Content/UE4_Other/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.13-10.55.56:872][210]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating AnimSequence /Game/UE4_Other/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating AnimSequence /Game/UE4_Other/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating AnimSequence /Game/UE4_Other/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating AnimSequence /Game/UE4_Other/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating AnimSequence /Game/UE4_Other/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating AnimSequence /Game/UE4_Other/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating AnimBlueprint /Game/UE4_Other/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating BlendSpace1D /Game/UE4_Other/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating AnimSequence /Game/UE4_Other/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2020.04.13-10.55.56:873][210]LogContentValidation: Display: Validating Blueprint /Game/UE4_Other/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.04.13-10.59.02:812][256]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.13-10.59.02:831][256]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map' with GeneratedClass '/Game/Environment/Maps/PS_Map.PS_Map_C' with ClassGeneratedBy '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map'
+[2020.04.13-10.59.02:831][256]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.13-10.59.02:832][256]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.04.13-10.59.02:836][256]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.04.13-10.59.02:836][256]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.04.13-10.59.02:836][256]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.04.13-10.59.02:836][256]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.04.13-10.59.02:836][256]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.04.13-10.59.02:836][256]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.04.13-10.59.02:837][256]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.04.13-10.59.02:837][256]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.04.13-10.59.03:086][256]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.13-10.59.03:090][256]LogPlayLevel: PlayLevel: Blueprint regeneration took 257 ms (1 blueprints)
+[2020.04.13-10.59.03:090][256]PIE: New page: PIE session: PS_Map (13 Apr 2020, 12:59:03)
+[2020.04.13-10.59.03:091][256]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.13-10.59.03:092][256]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.13-10.59.03:092][256]LogPlayLevel: Creating play world package: /Game/Environment/Maps/UEDPIE_0_PS_Map
+[2020.04.13-10.59.03:096][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003080s)
+[2020.04.13-10.59.03:096][256]LogAIModule: Creating AISystem for world PS_Map
+[2020.04.13-10.59.03:097][256]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2020.04.13-10.59.03:097][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/Maps/PS_Map.PS_Map to /Game/Environment/Maps/UEDPIE_0_PS_Map.PS_Map (0.004114s)
+[2020.04.13-10.59.03:129][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.04.13-10.59.03:129][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.13-10.59.03:129][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.13-10.59.03:129][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.13-10.59.03:129][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.13-10.59.03:129][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.13-10.59.03:129][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.13-10.59.03:129][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.13-10.59.03:129][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.13-10.59.03:130][256]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.13-10.59.03:130][256]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: Is Default: Yes
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: Channel Order:
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.13-10.59.03:143][256]LogAudioMixer: Display: 1: FrontRight
+[2020.04.13-10.59.03:154][256]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.13-10.59.03:156][256]LogInit: FAudioDevice initialized.
+[2020.04.13-10.59.03:169][256]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.13-10.59.03:171][256]LogWorld: Bringing World /Game/Environment/Maps/UEDPIE_0_PS_Map.PS_Map up for play (max tick rate 0) at 2020.04.13-11.59.03
+[2020.04.13-10.59.03:171][256]LogWorld: Bringing up level for play took: 0.001426
+[2020.04.13-10.59.03:171][256]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.04.13-10.59.03:174][256]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.13-10.59.03:176][256]PIE: Play in editor start time for /Game/Environment/Maps/UEDPIE_0_PS_Map 1.19
+[2020.04.13-10.59.03:176][256]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map' with GeneratedClass '/Game/Environment/Maps/PS_Map.PS_Map_C' with ClassGeneratedBy '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map'
+[2020.04.13-10.59.08:448][840]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:457][841]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:464][842]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:473][843]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:482][844]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:490][845]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:499][846]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:506][847]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:515][848]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:524][849]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:532][850]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:541][851]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:548][852]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:557][853]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:565][854]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:573][855]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:582][856]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:590][857]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:599][858]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:606][859]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:615][860]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:623][861]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:632][862]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:640][863]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:648][864]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:656][865]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:664][866]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:673][867]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:682][868]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:690][869]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:699][870]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:706][871]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:715][872]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:723][873]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:732][874]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:740][875]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:748][876]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:757][877]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:765][878]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:773][879]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:782][880]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:790][881]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:799][882]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:806][883]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:815][884]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.08:823][885]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:093][752]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:101][753]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:110][754]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:118][755]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:127][756]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:134][757]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:143][758]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:152][759]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:160][760]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:168][761]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:177][762]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:185][763]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:193][764]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:201][765]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:210][766]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:218][767]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:227][768]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:234][769]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:243][770]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:252][771]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:260][772]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:268][773]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:277][774]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:285][775]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:293][776]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:301][777]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:310][778]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:318][779]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:327][780]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:334][781]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:343][782]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:352][783]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:360][784]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:368][785]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:377][786]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:385][787]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:393][788]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:401][789]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:410][790]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:418][791]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:427][792]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:435][793]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:443][794]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:452][795]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:460][796]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:468][797]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:477][798]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:485][799]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:493][800]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.16:501][801]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:068][469]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:077][470]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:086][471]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:093][472]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:102][473]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:110][474]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:119][475]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:127][476]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:135][477]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:143][478]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:152][479]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:160][480]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:168][481]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:177][482]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:186][483]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:193][484]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:202][485]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:210][486]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:219][487]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:227][488]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:235][489]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:243][490]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:252][491]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:260][492]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:268][493]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:277][494]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:286][495]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:293][496]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:302][497]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:310][498]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:319][499]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:327][500]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:335][501]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:343][502]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:352][503]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:360][504]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:368][505]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:377][506]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:385][507]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:393][508]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:402][509]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:410][510]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:419][511]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:427][512]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:435][513]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:443][514]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:452][515]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:460][516]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.22:468][517]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.04.13-10.59.23:674][661]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.13-10.59.23:674][661]LogWindows: Windows GetLastError: The operation completed successfully. (0)

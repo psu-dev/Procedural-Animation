@@ -1,0 +1,1352 @@
+﻿Log file open, 03/28/20 13:27:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ParkourSystem
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.060187
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.24/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.28-13.27.44:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.28-13.27.44:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.28-13.27.44:961][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.28-13.27.44:968][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.28-13.27.44:968][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.28-13.27.44:969][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.28-13.27.44:969][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.28-13.27.44:969][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.28-13.27.44:971][  0]LogHAL: Display: Platform has ~ 16 GB [17126236160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.28-13.27.44:971][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.28-13.27.44:971][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.28-13.27.44:971][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.28-13.27.44:972][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.28-13.27.44:972][  0]LogInit: Computer: DESKTOP-JUD4AHB
+[2020.03.28-13.27.44:972][  0]LogInit: User: fixte
+[2020.03.28-13.27.44:972][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.28-13.27.44:972][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.28-13.27.44:972][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.28-13.27.44:972][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.28-13.27.44:972][  0]LogMemory: Process Physical Memory: 104.22 MB used, 104.23 MB peak
+[2020.03.28-13.27.44:972][  0]LogMemory: Process Virtual Memory: 99.84 MB used, 99.84 MB peak
+[2020.03.28-13.27.44:972][  0]LogMemory: Physical Memory: 5744.78 MB used,  10588.07 MB free, 16332.85 MB total
+[2020.03.28-13.27.44:972][  0]LogMemory: Virtual Memory: 5121.23 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.03.28-13.27.44:974][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.28-13.27.44:982][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.28-13.27.44:982][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.28-13.27.44:983][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.28-13.27.45:127][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.28-13.27.45:155][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.28-13.27.45:155][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.28-13.27.45:251][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.28-13.27.45:251][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.28-13.27.45:251][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.28-13.27.45:251][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.28-13.27.45:305][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2020.03.28-13.27.45:305][  0]LogD3D11RHI:       4053/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.28-13.27.45:307][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.28-13.27.45:307][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.28-13.27.45:307][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.28-13.27.45:312][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.28-13.27.45:312][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.28-13.27.45:312][  0]LogWindows: EnumDisplayDevices:
+[2020.03.28-13.27.45:312][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2020.03.28-13.27.45:313][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2020.03.28-13.27.45:313][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.03.28-13.27.45:313][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.03.28-13.27.45:313][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.28-13.27.45:313][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2020.03.28-13.27.45:313][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.03.28-13.27.45:313][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.03.28-13.27.45:313][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.03.28-13.27.45:350][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.28-13.27.45:350][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.28-13.27.45:412][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.28-13.27.45:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.28-13.27.45:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.28-13.27.45:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.28-13.27.45:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.28-13.27.45:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.28-13.27.45:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.28-13.27.45:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.28-13.27.45:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.28-13.27.45:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.28-13.27.45:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.28-13.27.45:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.28-13.27.45:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.28-13.27.45:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.28-13.27.45:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.28-13.27.45:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.28-13.27.45:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.28-13.27.45:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.28-13.27.45:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.28-13.27.45:764][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.28-13.27.45:765][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.28-13.27.45:777][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../Unreal/ParkourSystem/Intermediate/Shaders/WorkingDirectory/6016/).
+[2020.03.28-13.27.45:777][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fixte/AppData/Local/Temp/UnrealShaderWorkingDir/E1FD9A0F4AB4C2ECE6823D862F1E8144/'.
+[2020.03.28-13.27.45:778][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.28-13.27.45:778][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.28-13.27.45:778][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.28-13.27.46:402][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.28-13.27.46:447][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.28-13.27.46:447][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.28-13.27.46:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/ParkourSystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.28-13.27.46:447][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.28-13.27.46:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/ParkourSystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.28-13.27.46:447][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.28-13.27.46:456][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.28-13.27.46:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.28-13.27.46:456][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.28-13.27.46:457][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fixte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.28-13.27.46:457][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.28-13.27.46:457][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.28-13.27.46:479][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.28-13.27.46:481][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.28-13.27.46:481][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.28-13.27.46:522][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2020.03.28-13.27.46:755][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.28-13.27.46:885][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.28-13.27.46:885][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.28-13.27.46:885][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.28-13.27.46:885][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.28-13.27.46:885][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.28-13.27.46:898][  0]LogNetVersion: ParkourSystem 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3892487967)
+[2020.03.28-13.27.47:709][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.029388 seconds
+[2020.03.28-13.27.47:715][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.28-13.27.47:715][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.28-13.27.47:715][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.28-13.27.48:015][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.28-13.27.48:018][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.28-13.27.48:053][  0]SourceControl: Source control is disabled
+[2020.03.28-13.27.48:053][  0]SourceControl: Source control is disabled
+[2020.03.28-13.27.48:054][  0]SourceControl: Source control is disabled
+[2020.03.28-13.27.48:054][  0]SourceControl: Source control is disabled
+[2020.03.28-13.27.48:054][  0]SourceControl: Source control is disabled
+[2020.03.28-13.27.48:060][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.28-13.27.48:060][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.28-13.27.48:108][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.28-13.27.48:115][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.28-13.27.48:115][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.28-13.27.48:182][  0]LogOcInput: OculusInput pre-init called
+[2020.03.28-13.27.48:186][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.28-13.27.48:186][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.28-13.27.48:245][  0]LogEngine: Initializing Engine...
+[2020.03.28-13.27.48:245][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.28-13.27.48:246][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.28-13.27.48:527][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.28-13.27.48:532][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.28-13.27.48:545][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.28-13.27.48:545][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.28-13.27.48:545][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.28-13.27.48:545][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.28-13.27.48:545][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.28-13.27.48:545][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.28-13.27.48:545][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.28-13.27.48:545][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.28-13.27.48:546][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.28-13.27.48:546][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.28-13.27.48:556][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.28-13.27.48:569][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.03.28-13.27.48:572][  0]LogInit: FAudioDevice initialized.
+[2020.03.28-13.27.48:572][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.28-13.27.48:808][  0]LogDerivedDataCache: Saved boot cache 0.24s 78MB C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.28-13.27.48:811][  0]LogInit: Texture streaming: Enabled
+[2020.03.28-13.27.48:819][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.28-13.27.48:819][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D22FD074-4E92-A102-D268-41A0F052B94D}
+[2020.03.28-13.27.48:819][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.28-13.27.48:820][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.28-13.27.48:868][  0]LogInit: Transaction tracking system initialized
+[2020.03.28-13.27.48:874][  0]BlueprintLog: New page: Editor Load
+[2020.03.28-13.27.48:892][  0]LocalizationService: Localization service is disabled
+[2020.03.28-13.27.48:925][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.28-13.27.48:926][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.28-13.27.49:092][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/' took 0.00s
+[2020.03.28-13.27.49:092][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.28-13.27.49:092][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.28-13.27.49:575][  0]SourceControl: Source control is disabled
+[2020.03.28-13.27.49:575][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/ParkourSystem/Content/Environment/Maps/PS_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.28-13.27.49:575][  0]LightingResults: New page: Lighting Build
+[2020.03.28-13.27.49:576][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-13.27.49:576][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-13.27.49:576][  0]MapCheck: New page: Map Check
+[2020.03.28-13.27.49:576][  0]LightingResults: New page: Lighting Build
+[2020.03.28-13.27.49:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.28-13.27.49:973][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.03.28-13.27.49:973][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2020.03.28-13.27.49:973][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2020.03.28-13.27.49:973][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.03.28-13.27.49:973][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2020.03.28-13.27.49:973][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.03.28-13.27.50:036][  0]LogAIModule: Creating AISystem for world PS_Map
+[2020.03.28-13.27.50:047][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.28-13.27.50:073][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.03.28-13.27.50:073][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.28-13.27.50:073][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2020.03.28-13.27.50:073][  0]LogFileHelpers: Loading map 'PS_Map' took 0.498
+[2020.03.28-13.27.50:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-13.27.50:195][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-13.27.50:201][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-13.27.50:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-13.27.50:210][  0]LogCollectionManager: Loaded 0 collections in 0.000588 seconds
+[2020.03.28-13.27.50:219][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Saved/Collections/' took 0.00s
+[2020.03.28-13.27.50:219][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/Developers/fixte/Collections/' took 0.00s
+[2020.03.28-13.27.50:219][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/Collections/' took 0.00s
+[2020.03.28-13.27.50:219][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 3017 classes and 720 folders.
+[2020.03.28-13.27.50:221][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.28-13.27.50:248][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.28-13.27.50:291][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.28-13.27.50:293][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.28-13.27.50:295][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.28-13.27.50:360][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.28-13.27.50:432][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.28-13.27.50:432][  0]LogLoad: (Engine Initialization) Total time: 6.10 seconds
+[2020.03.28-13.27.50:432][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.28-13.27.50:471][  0]LogAssetRegistry: Asset discovery search completed in 3.9491 seconds
+[2020.03.28-13.27.50:474][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.03.28-13.27.50:475][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.28-13.27.50:492][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.28-13.27.51:456][109]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.28-13.27.55:283][506]Cmd: DELETE
+[2020.03.28-13.27.55:283][506]Cmd: ACTOR DELETE
+[2020.03.28-13.27.55:286][506]LogEditorActor: Deleted Actor: PS_Character_C
+[2020.03.28-13.27.55:327][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.28-13.27.55:328][506]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.03.28-13.27.58:225][819]MapCheck: New page: Map Check
+[2020.03.28-13.27.58:235][819]LightingResults: New page: Lighting Build - 28 Mar 2020, 13:27:58
+[2020.03.28-13.27.58:263][819]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.28-13.27.58:301][819]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.28-13.27.58:310][819]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.28-13.27.58:815][819]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.28-13.27.58:815][819]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6016
+[2020.03.28-13.28.05:071][819]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.28-13.28.05:071][819]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.28-13.28.05:071][819]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.28-13.28.05:071][819]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.28-13.28.05:071][819]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.28-13.28.05:171][819]LogEditorBuildUtils: Build time 0:06
+[2020.03.28-13.28.05:327][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.28-13.28.07:336][962]Job is a success!
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.28-13.28.07:528][964]LogVolumetricLightmapImport:          PS_Map 			 3 bricks 	 100.0% (Persistent Level)
+[2020.03.28-13.28.07:569][964]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2020.03.28-13.28.07:569][964]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.03.28-13.28.07:569][964]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.03.28-13.28.07:569][964]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.03.28-13.28.07:569][964]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.03.28-13.28.07:569][964]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.03.28-13.28.07:569][964]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.03.28-13.28.07:569][964]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.03.28-13.28.07:569][964]LogStaticLightingSystem: PS_Map_BuiltData storing lightmap data for 3 meshes in 3 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.03.28-13.28.07:591][964]Lightmass on DESKTOP-JUD4AHB: 1.42 sec total, 142 ms importing, 144 ms setup, 213 ms photons, 890 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 3.56 sec total, 722 ms processing.
+[2020.03.28-13.28.07:593][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.28-13.28.07:657][964]LogStaticLightingSystem: Illumination: 9.33 sec (14 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2020.03.28-13.28.07:657][964]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.03.28-13.28.07:657][964]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.28-13.28.08:074][964]DumpUnbuiltLightIteractions
+[2020.03.28-13.28.08:074][964]Lights with unbuilt interactions: 0
+[2020.03.28-13.28.08:074][964]
+[2020.03.28-13.28.08:074][964]Primitives with unbuilt interactions: 0
+[2020.03.28-13.28.08:158][965]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.28-13.28.08:158][965]MapCheck: New page: PS_Map - 28 Mar 2020, 13:28:08
+[2020.03.28-13.28.08:159][965]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.319ms to complete.
+[2020.03.28-13.34.39:342][344]LogStaticMesh: Building static mesh Simple_Floor_20x20...
+[2020.03.28-13.34.39:374][344]LogStaticMesh: Built static mesh [0.03s] /Game/Environment/Geometry/Meshes/Simple_Floor_20x20.Simple_Floor_20x20
+[2020.03.28-13.34.39:443][349]LogActorFactory: Actor Factory created Simple_Floor_20x20
+[2020.03.28-13.34.41:767][624]LogActorFactory: Actor Factory created Simple_Floor_20x20
+[2020.03.28-13.34.49:872][527]MapCheck: New page: Map Check
+[2020.03.28-13.34.49:880][527]LightingResults: New page: Lighting Build - 28 Mar 2020, 13:34:49
+[2020.03.28-13.34.49:885][527]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.28-13.34.49:887][527]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.28-13.34.49:887][527]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.28-13.34.49:887][527]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.28-13.34.49:887][527]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6016
+[2020.03.28-13.34.54:401][527]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.28-13.34.54:401][527]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.28-13.34.54:401][527]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.28-13.34.54:401][527]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.28-13.34.54:401][527]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.28-13.34.54:510][527]LogEditorBuildUtils: Build time 0:04
+[2020.03.28-13.34.54:581][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.28-13.34.56:276][533]Job is a success!
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport:          1: 19.0% covering 6.3% of volume
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport:          2: 76.2% covering 0.4% of volume
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.28-13.34.56:743][534]LogVolumetricLightmapImport:          PS_Map 			 21 bricks 	 100.0% (Persistent Level)
+[2020.03.28-13.34.56:776][534]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2020.03.28-13.34.56:776][534]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2020.03.28-13.34.56:776][534]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2020.03.28-13.34.56:776][534]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.03.28-13.34.56:776][534]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.03.28-13.34.56:776][534]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.03.28-13.34.56:776][534]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2020.03.28-13.34.56:776][534]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.03.28-13.34.56:776][534]LogStaticLightingSystem: PS_Map_BuiltData storing lightmap data for 4 meshes in 4 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.03.28-13.34.56:796][534]Lightmass on DESKTOP-JUD4AHB: 1.70 sec total, 144 ms importing, 31 ms setup, 210 ms photons, 1.28 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 5.13 sec total, 630 ms processing.
+[2020.03.28-13.34.56:798][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.03.28-13.34.56:867][534]LogStaticLightingSystem: Illumination: 6.62 sec (14 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2020.03.28-13.34.56:867][534]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.03.28-13.34.56:867][534]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.28-13.34.57:404][534]DumpUnbuiltLightIteractions
+[2020.03.28-13.34.57:404][534]Lights with unbuilt interactions: 0
+[2020.03.28-13.34.57:404][534]
+[2020.03.28-13.34.57:404][534]Primitives with unbuilt interactions: 0
+[2020.03.28-13.34.57:468][535]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.28-13.34.57:468][535]MapCheck: New page: PS_Map - 28 Mar 2020, 13:34:57
+[2020.03.28-13.34.57:469][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2020.03.28-13.35.25:355][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Simple_Floor_20x20)
+[2020.03.28-13.35.26:288][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Simple_Floor_1km)
+[2020.03.28-13.35.36:839][398]MapCheck: New page: Map Check
+[2020.03.28-13.35.36:849][398]LightingResults: New page: Lighting Build - 28 Mar 2020, 13:35:36
+[2020.03.28-13.35.36:855][398]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.28-13.35.36:857][398]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.28-13.35.36:857][398]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.28-13.35.36:858][398]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.28-13.35.36:858][398]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6016
+[2020.03.28-13.35.41:365][398]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.28-13.35.41:365][398]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.28-13.35.41:365][398]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.28-13.35.41:365][398]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.28-13.35.41:365][398]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.28-13.35.41:431][398]LogEditorBuildUtils: Build time 0:04
+[2020.03.28-13.35.41:491][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.03.28-13.35.43:220][520]Job is a success!
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport:          0: 6.3% covering 100.0% of volume
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport:          1: 25.0% covering 6.3% of volume
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport:          2: 68.8% covering 0.3% of volume
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.28-13.35.43:392][521]LogVolumetricLightmapImport:          PS_Map 			 16 bricks 	 100.0% (Persistent Level)
+[2020.03.28-13.35.43:418][521]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2020.03.28-13.35.43:418][521]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.03.28-13.35.43:418][521]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.03.28-13.35.43:418][521]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.03.28-13.35.43:418][521]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.03.28-13.35.43:418][521]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.03.28-13.35.43:418][521]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X64)
+[2020.03.28-13.35.43:418][521]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.03.28-13.35.43:418][521]LogStaticLightingSystem: PS_Map_BuiltData storing lightmap data for 4 meshes in 3 LightmapResourceClusters (1.3 Meshes per cluster).
+[2020.03.28-13.35.43:441][521]Lightmass on DESKTOP-JUD4AHB: 1.34 sec total, 136 ms importing, 29 ms setup, 218 ms photons, 938 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 3.75 sec total, 667 ms processing.
+[2020.03.28-13.35.43:443][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.28-13.35.43:504][521]LogStaticLightingSystem: Illumination: 6.58 sec (14 ms encoding lightmaps, 7 ms encoding shadowmaps)
+[2020.03.28-13.35.43:504][521]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.03.28-13.35.43:504][521]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.28-13.35.44:369][521]DumpUnbuiltLightIteractions
+[2020.03.28-13.35.44:369][521]Lights with unbuilt interactions: 0
+[2020.03.28-13.35.44:369][521]
+[2020.03.28-13.35.44:369][521]Primitives with unbuilt interactions: 0
+[2020.03.28-13.35.44:458][522]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.28-13.35.44:458][522]MapCheck: New page: PS_Map - 28 Mar 2020, 13:35:44
+[2020.03.28-13.35.44:458][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2020.03.28-13.36.58:065][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Maps/PS_Map" FILE="../../../../../Unreal/ParkourSystem/Content/Environment/Maps/PS_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.28-13.36.58:089][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.28-13.36.58:225][361]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_MapE3990F4E4CD78A4A3A3B3C9C391F4113.tmp' to '../../../../../Unreal/ParkourSystem/Content/Environment/Maps/PS_Map.umap'
+[2020.03.28-13.36.58:270][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Maps/PS_Map_BuiltData" FILE="../../../../../Unreal/ParkourSystem/Content/Environment/Maps/PS_Map_BuiltData.uasset" SILENT=true
+[2020.03.28-13.36.58:293][361]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_Map_BuiltDataB4D871E3491ADC301D937EB4240FE9F5.tmp' to '../../../../../Unreal/ParkourSystem/Content/Environment/Maps/PS_Map_BuiltData.uasset'
+[2020.03.28-13.36.58:342][361]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.28-13.36.58:342][361]LogContentValidation: Display: Validating World /Game/Environment/Maps/PS_Map.PS_Map
+[2020.03.28-13.36.58:342][361]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Environment/Maps/PS_Map_BuiltData.PS_Map_BuiltData
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 0 (Connection 2 seems to be dead!)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 1 (Closing connection 2)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 3 (  Trying 3.218.27.87...)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (3.218.27.87) port 443 (#3))
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 8 (SSL re-using session ID)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 10 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-13.37.50:939][337]LogHttp: Warning: 000001BD8F1DF880: libcurl info message cache 11 (Closing connection 3)
+[2020.03.28-13.37.51:269][338]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-13.37.57:175][414]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.28-13.37.57:187][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map' with GeneratedClass '/Game/Environment/Maps/PS_Map.PS_Map_C' with ClassGeneratedBy '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map'
+[2020.03.28-13.37.57:187][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.28-13.37.57:187][414]PIE: New page: PIE session: PS_Map (28 Mar 2020, 13:37:57)
+[2020.03.28-13.37.57:188][414]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.28-13.37.57:189][414]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.28-13.37.57:189][414]LogPlayLevel: Creating play world package: /Game/Environment/Maps/UEDPIE_0_PS_Map
+[2020.03.28-13.37.57:193][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003423s)
+[2020.03.28-13.37.57:193][414]LogAIModule: Creating AISystem for world PS_Map
+[2020.03.28-13.37.57:194][414]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2020.03.28-13.37.57:194][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/Maps/PS_Map.PS_Map to /Game/Environment/Maps/UEDPIE_0_PS_Map.PS_Map (0.004595s)
+[2020.03.28-13.37.57:216][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.28-13.37.57:217][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.28-13.37.57:217][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.28-13.37.57:217][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.28-13.37.57:217][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.28-13.37.57:217][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.28-13.37.57:217][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.28-13.37.57:217][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.28-13.37.57:217][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.28-13.37.57:218][414]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.28-13.37.57:218][414]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: Is Default: Yes
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: Channel Order:
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.28-13.37.57:227][414]LogAudioMixer: Display: 1: FrontRight
+[2020.03.28-13.37.57:236][414]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.03.28-13.37.57:238][414]LogInit: FAudioDevice initialized.
+[2020.03.28-13.37.57:248][414]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.28-13.37.57:250][414]LogWorld: Bringing World /Game/Environment/Maps/UEDPIE_0_PS_Map.PS_Map up for play (max tick rate 0) at 2020.03.28-13.37.57
+[2020.03.28-13.37.57:250][414]LogWorld: Bringing up level for play took: 0.001561
+[2020.03.28-13.37.57:250][414]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.03.28-13.37.57:253][414]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.28-13.37.57:254][414]PIE: Play in editor start time for /Game/Environment/Maps/UEDPIE_0_PS_Map -0.206
+[2020.03.28-13.37.57:254][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map' with GeneratedClass '/Game/Environment/Maps/PS_Map.PS_Map_C' with ClassGeneratedBy '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map'
+[2020.03.28-13.38.18:321][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-13.38.18:321][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-13.38.18:321][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map' with GeneratedClass '/Game/Environment/Maps/PS_Map.PS_Map_C' with ClassGeneratedBy '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map'
+[2020.03.28-13.38.18:322][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-13.38.18:322][932]LogWorld: BeginTearingDown for /Game/Environment/Maps/UEDPIE_0_PS_Map
+[2020.03.28-13.38.18:322][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-13.38.18:322][932]LogWorld: UWorld::CleanupWorld for PS_Map, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-13.38.18:322][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-13.38.18:327][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.28-13.38.18:328][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map' with GeneratedClass '/Game/Environment/Maps/PS_Map.PS_Map_C' with ClassGeneratedBy '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map'
+[2020.03.28-13.38.18:331][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-13.38.18:351][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.28-13.38.18:353][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-13.38.18:356][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.03.28-13.38.18:428][938]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.28-13.38.57:781][326]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Blueprint/PS_Character.PS_Character
+[2020.03.28-13.38.57:941][326]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.03.28-13.38.58:874][326]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.28-13.38.59:140][327]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.28-13.39.01:301][542]LogSlate: Window 'PS_Character' being destroyed
+[2020.03.28-13.39.08:037][291]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim
+[2020.03.28-13.39.08:044][291]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.28-13.39.08:196][291]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.28-13.39.08:197][291]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.03.28-13.39.08:450][291]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.28-13.39.09:055][291]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 0 (  Trying 34.226.40.58...)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.226.40.58) port 443 (#4))
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 5 (SSL re-using session ID)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 7 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 8 (Closing connection 4)
+[2020.03.28-13.40.51:282][512]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: request failed, libcurl error: 51 (SSL peer certificate or SSH remote key was not OK)
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 0 (Connection 8 seems to be dead!)
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 1 (Closing connection 8)
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 3 (  Trying 54.158.161.123...)
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (54.158.161.123) port 443 (#9))
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2020.03.28-13.52.51:780][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 8 (SSL re-using session ID)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 11 (TLSv1.3 (IN), TLS Unknown, Certificate Status (22):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 12 (TLSv1.3 (IN), TLS handshake, Unknown (8):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 13 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 16 (TLSv1.3 (OUT), TLS change cipher, Client hello (1):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 17 (TLSv1.3 (OUT), TLS Unknown, Certificate Status (22):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 19 (SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 20 (ALPN, server accepted to use http/1.1)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 21 (old SSL session ID is stale, removing)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 22 (Server certificate:)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 23 ( subject: C=US; ST=California; L=Mountain View; O=Google LLC; CN=*.googleapis.com)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 24 ( start date: Mar  3 09:43:57 2020 GMT)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 25 ( expire date: May 26 09:43:57 2020 GMT)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 26 ( subjectAltName does not match datarouter.ol.epicgames.com)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 27 (SSL: no alternative certificate subject name matches target host name 'datarouter.ol.epicgames.com')
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 28 (Closing connection 9)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 29 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2020.03.28-13.52.51:781][457]LogHttp: Warning: 000001BE5BB85800: libcurl info message cache 30 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-13.52.52:121][458]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bdf92bff70 [can pipeline])
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.90.14) port 443 (#11))
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.28-13.59.09:819][581]LogHttp: Warning: 000001BE5BB86480: libcurl info message cache 7 (Closing connection 11)
+[2020.03.28-13.59.10:156][582]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 0 (  Trying 34.234.229.47...)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.229.47) port 443 (#12))
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 5 (SSL re-using session ID)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 7 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: 000001BE5BB86FC0: libcurl info message cache 8 (Closing connection 12)
+[2020.03.28-14.02.10:309][118]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 0 (Connection 13 seems to be dead!)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 1 (Closing connection 13)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 3 (  Trying 3.224.85.57...)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (3.224.85.57) port 443 (#14))
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 8 (SSL re-using session ID)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 10 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-14.06.50:433][951]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 11 (Closing connection 14)
+[2020.03.28-14.06.50:771][952]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 0 (Connection 17 seems to be dead!)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 1 (Closing connection 17)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 3 (  Trying 34.238.5.157...)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 5 (  Trying 64:ff9b::22c4:31d6...)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 6 (TCP_NODELAY set)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 7 (connect to 64:ff9b::22c4:31d6 port 443 failed: Network unreachable)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 8 (  Trying 64:ff9b::22c0:8197...)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 10 (connect to 64:ff9b::22c0:8197 port 443 failed: Network unreachable)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 11 (  Trying 64:ff9b::22ee:59d...)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 13 (connect to 64:ff9b::22ee:59d port 443 failed: Network unreachable)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 14 (  Trying 64:ff9b::3656:2ae5...)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 15 (TCP_NODELAY set)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 16 (connect to 64:ff9b::3656:2ae5 port 443 failed: Network unreachable)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 17 (  Trying 64:ff9b::3655:ae42...)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 18 (TCP_NODELAY set)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 19 (connect to 64:ff9b::3655:ae42 port 443 failed: Network unreachable)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 20 (  Trying 64:ff9b::12eb:f4f5...)
+[2020.03.28-14.14.50:582][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 22 (connect to 64:ff9b::12eb:f4f5 port 443 failed: Network unreachable)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 23 (  Trying 64:ff9b::34c9:c88e...)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 25 (connect to 64:ff9b::34c9:c88e port 443 failed: Network unreachable)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 26 (  Trying 64:ff9b::3ea:9c60...)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 27 (TCP_NODELAY set)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 28 (connect to 64:ff9b::3ea:9c60 port 443 failed: Network unreachable)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 29 (Connected to datarouter.ol.epicgames.com (34.238.5.157) port 443 (#18))
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 30 (ALPN, offering http/1.1)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 31 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 32 (SSL re-using session ID)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 33 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 34 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-14.14.50:583][379]LogHttp: Warning: 000001BE5BB87240: libcurl info message cache 35 (Closing connection 18)
+[2020.03.28-14.14.50:919][380]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 0 (Connection 26 seems to be dead!)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 1 (Closing connection 26)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 3 (  Trying 52.55.250.123...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 5 (  Trying 64:ff9b::3414:c4b1...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 6 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 7 (connect to 64:ff9b::3414:c4b1 port 443 failed: Network unreachable)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 8 (  Trying 64:ff9b::342c:bcd3...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 10 (connect to 64:ff9b::342c:bcd3 port 443 failed: Network unreachable)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 11 (  Trying 64:ff9b::342c:72cf...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 13 (connect to 64:ff9b::342c:72cf port 443 failed: Network unreachable)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 14 (  Trying 64:ff9b::12d5:b75d...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 15 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 16 (connect to 64:ff9b::12d5:b75d port 443 failed: Network unreachable)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 17 (  Trying 64:ff9b::34cc:290f...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 18 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 19 (connect to 64:ff9b::34cc:290f port 443 failed: Network unreachable)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 20 (  Trying 64:ff9b::3437:fa7b...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 22 (connect to 64:ff9b::3437:fa7b port 443 failed: Network unreachable)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 23 (  Trying 64:ff9b::3e4:f110...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 25 (connect to 64:ff9b::3e4:f110 port 443 failed: Network unreachable)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 26 (  Trying 64:ff9b::34cb:d5f8...)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 27 (TCP_NODELAY set)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 28 (connect to 64:ff9b::34cb:d5f8 port 443 failed: Network unreachable)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 29 (Connected to datarouter.ol.epicgames.com (52.55.250.123) port 443 (#27))
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 30 (ALPN, offering http/1.1)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 31 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 32 (SSL re-using session ID)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 33 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 34 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: 000001BE5BB84180: libcurl info message cache 35 (Closing connection 27)
+[2020.03.28-14.33.50:684][770]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-14.41.50:587][197]LogHttp: Warning: 000001BE44D9B4C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-14.41.50:587][197]LogHttp: Warning: 000001BE44D9B4C0: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-14.41.50:587][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 0 (Connection 29 seems to be dead!)
+[2020.03.28-14.41.50:587][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 1 (Closing connection 29)
+[2020.03.28-14.41.50:587][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-14.41.50:587][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 3 (  Trying 52.5.203.137...)
+[2020.03.28-14.41.50:587][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-14.41.50:587][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (52.5.203.137) port 443 (#30))
+[2020.03.28-14.41.50:588][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2020.03.28-14.41.50:588][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-14.41.50:588][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 8 (SSL re-using session ID)
+[2020.03.28-14.41.50:588][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-14.41.50:588][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 10 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-14.41.50:588][197]LogHttp: Warning: 000001BE44D9B4C0: libcurl info message cache 11 (Closing connection 30)
+[2020.03.28-14.41.50:924][198]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bdf92bff70 [can pipeline])
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: libcurl info message cache 1 (Re-using existing connection! (#35) with host datarouter.ol.epicgames.com)
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.132.217) port 443 (#35))
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.28-14.52.10:131][ 37]LogHttp: Warning: 000001BE44D99940: libcurl info message cache 7 (Closing connection 35)
+[2020.03.28-14.52.10:466][ 38]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: request failed, libcurl error: 0 (No error)
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bdf92bff70 [can pipeline])
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: libcurl info message cache 1 (Re-using existing connection! (#37) with host datarouter.ol.epicgames.com)
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.188.211) port 443 (#37))
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: libcurl info message cache 6 (Closing connection 37)
+[2020.03.28-14.58.51:635][233]LogHttp: Warning: 000001BE44D9B9C0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-14.58.51:968][234]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-15.05.50:612][480]LogHttp: Warning: 000001BE44D9BC40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-15.05.50:612][480]LogHttp: Warning: 000001BE44D9BC40: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-15.05.50:612][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 0 (Connection 39 seems to be dead!)
+[2020.03.28-15.05.50:612][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 1 (Closing connection 39)
+[2020.03.28-15.05.50:612][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-15.05.50:612][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 3 (  Trying 54.84.166.143...)
+[2020.03.28-15.05.50:612][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-15.05.50:612][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 5 (  Trying 64:ff9b::3437:fa7b...)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 6 (TCP_NODELAY set)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 7 (connect to 64:ff9b::3437:fa7b port 443 failed: Network unreachable)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 8 (  Trying 64:ff9b::3414:c4b1...)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 10 (connect to 64:ff9b::3414:c4b1 port 443 failed: Network unreachable)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 11 (  Trying 64:ff9b::34cc:290f...)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 13 (connect to 64:ff9b::34cc:290f port 443 failed: Network unreachable)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 14 (  Trying 64:ff9b::342c:bcd3...)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 15 (TCP_NODELAY set)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 16 (connect to 64:ff9b::342c:bcd3 port 443 failed: Network unreachable)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 17 (  Trying 64:ff9b::3653:885e...)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 18 (TCP_NODELAY set)
+[2020.03.28-15.05.50:613][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 19 (connect to 64:ff9b::3653:885e port 443 failed: Network unreachable)
+[2020.03.28-15.05.50:614][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 20 (  Trying 64:ff9b::3654:a68f...)
+[2020.03.28-15.05.50:614][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.03.28-15.05.50:614][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 22 (connect to 64:ff9b::3654:a68f port 443 failed: Network unreachable)
+[2020.03.28-15.05.50:614][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 23 (  Trying 64:ff9b::342c:72cf...)
+[2020.03.28-15.05.50:614][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.03.28-15.05.50:614][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 25 (connect to 64:ff9b::342c:72cf port 443 failed: Network unreachable)
+[2020.03.28-15.05.50:614][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 26 (  Trying 64:ff9b::34cb:d5f8...)
+[2020.03.28-15.05.50:614][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 27 (TCP_NODELAY set)
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 28 (connect to 64:ff9b::34cb:d5f8 port 443 failed: Network unreachable)
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 29 (Connected to datarouter.ol.epicgames.com (54.84.166.143) port 443 (#40))
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 30 (ALPN, offering http/1.1)
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 31 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 32 (SSL re-using session ID)
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 33 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 34 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: 000001BE44D9BC40: libcurl info message cache 35 (Closing connection 40)
+[2020.03.28-15.05.50:615][480]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bdf92bff70 [can pipeline])
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: libcurl info message cache 1 (Re-using existing connection! (#51) with host datarouter.ol.epicgames.com)
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.87.28.59) port 443 (#51))
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.28-15.32.57:127][315]LogHttp: Warning: 000001BE44D9A700: libcurl info message cache 7 (Closing connection 51)
+[2020.03.28-15.32.57:464][316]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-16.04.02:066][775]LogSlate: Took 0.021471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.28-16.08.00:022][699]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2020.03.28-16.08.00:025][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/PS_Map' took 0.132
+[2020.03.28-16.08.00:026][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.28-16.08.00:041][699]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.28-16.08.00:041][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.28-16.08.00:305][699]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto1385C39EE43994330B92D3F965EF2B388.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto1.uasset'
+[2020.03.28-16.08.00:386][699]LogFileHelpers: Auto-saving content packages took 0.361
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 0 (Connection 66 seems to be dead!)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 1 (Closing connection 66)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 3 (  Trying 52.44.188.211...)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (52.44.188.211) port 443 (#67))
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 8 (SSL re-using session ID)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 10 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-16.10.50:746][357]LogHttp: Warning: 000001BE5D2C1300: libcurl info message cache 11 (Closing connection 67)
+[2020.03.28-16.10.51:088][358]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-16.18.00:750][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.03.28-16.18.00:755][632]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/PS_Map' took 0.047
+[2020.03.28-16.18.00:756][632]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.28-16.18.00:792][632]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.28-16.18.00:792][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.28-16.18.01:069][632]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto21541E7DB4C4B081919F0788680230DC2.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto2.uasset'
+[2020.03.28-16.18.01:070][632]LogFileHelpers: Auto-saving content packages took 0.316
+[2020.03.28-16.37.07:384][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.03.28-16.37.07:385][352]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/PS_Map' took 0.041
+[2020.03.28-16.37.07:386][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.28-16.37.07:405][352]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.28-16.37.07:405][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.28-16.37.07:683][352]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto3E348C8D4490C8F7BF57C3A956B289789.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto3.uasset'
+[2020.03.28-16.37.07:695][352]LogFileHelpers: Auto-saving content packages took 0.309
+[2020.03.28-16.43.54:814][639]LogAssetEditorSubsystem: Opening Asset editor for CurveFloat /Game/Data/Curve/StrideBlendRun.StrideBlendRun
+[2020.03.28-16.44.25:176][650]LogSlate: Window 'Pick Curve Class' being destroyed
+[2020.03.28-16.44.31:918][444]LogAssetEditorSubsystem: Opening Asset editor for CurveFloat /Game/Data/Curve/LandPredictionCurve.LandPredictionCurve
+[2020.03.28-16.45.10:571][918]LogEditorTransaction: Undo Edit Time
+[2020.03.28-16.45.10:649][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.28-16.45.48:138][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Curve/LandPredictionCurve" FILE="../../../../../Unreal/ParkourSystem/Content/Data/Curve/LandPredictionCurve.uasset" SILENT=true
+[2020.03.28-16.45.48:144][  8]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/LandPredictionCurveD93451444A8DEC615B517A88EB141592.tmp' to '../../../../../Unreal/ParkourSystem/Content/Data/Curve/LandPredictionCurve.uasset'
+[2020.03.28-16.45.48:172][  8]AssetCheck: New page: Asset Save: LandPredictionCurve
+[2020.03.28-16.45.48:172][  8]LogContentValidation: Display: Validating CurveFloat /Game/Data/Curve/LandPredictionCurve.LandPredictionCurve
+[2020.03.28-16.46.24:402][198]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.28-16.46.24:900][198]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.03.28-16.46.31:296][734]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.28-16.46.31:709][734]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.03.28-16.47.15:533][  8]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.28-16.47.15:896][  8]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.03.28-16.48.20:164][333]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.28-16.48.20:545][333]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.03.28-16.49.17:740][578]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2020.03.28-16.49.17:744][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.28-16.49.17:773][578]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.28-16.49.18:127][579]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2020.03.28-16.49.21:643][888]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-16.49.21:643][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-16.49.23:404][995]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Character/Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.03.28-16.49.23:408][995]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.28-16.49.23:434][995]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.28-16.49.29:577][599]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-16.49.29:577][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-16.51.12:216][232]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.03.28-16.51.12:221][232]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/PS_Map' took 0.064
+[2020.03.28-16.51.12:222][232]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.28-16.51.12:239][232]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.28-16.51.12:239][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.28-16.51.12:622][232]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto47FB5B37549D16D81BF233CAED414EFC5.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto4.uasset'
+[2020.03.28-16.51.12:623][232]LogFileHelpers: Auto-saving content packages took 0.402
+[2020.03.28-16.55.48:757][177]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.28-16.55.49:136][177]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.03.28-17.00.50:560][365]LogHttp: Warning: 000001BE637A82C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-17.00.50:561][365]LogHttp: Warning: 000001BE637A82C0: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 0 (Connection 85 seems to be dead!)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 1 (Closing connection 85)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 3 (  Trying 52.45.123.19...)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 5 (  Trying 64:ff9b::36a5:c199...)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 6 (TCP_NODELAY set)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 7 (connect to 64:ff9b::36a5:c199 port 443 failed: Network unreachable)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 8 (  Trying 64:ff9b::6418:4ead...)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 9 (TCP_NODELAY set)
+[2020.03.28-17.00.50:562][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 10 (connect to 64:ff9b::6418:4ead port 443 failed: Network unreachable)
+[2020.03.28-17.00.50:566][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 11 (  Trying 64:ff9b::22c5:ed4e...)
+[2020.03.28-17.00.50:566][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.03.28-17.00.50:566][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 13 (connect to 64:ff9b::22c5:ed4e port 443 failed: Network unreachable)
+[2020.03.28-17.00.50:566][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 14 (  Trying 64:ff9b::3e2:5dad...)
+[2020.03.28-17.00.50:566][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 15 (TCP_NODELAY set)
+[2020.03.28-17.00.50:566][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 16 (connect to 64:ff9b::3e2:5dad port 443 failed: Network unreachable)
+[2020.03.28-17.00.50:566][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 17 (  Trying 64:ff9b::23ad:9fe8...)
+[2020.03.28-17.00.50:566][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 18 (TCP_NODELAY set)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 19 (connect to 64:ff9b::23ad:9fe8 port 443 failed: Network unreachable)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 20 (  Trying 64:ff9b::34cb:e421...)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 21 (TCP_NODELAY set)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 22 (connect to 64:ff9b::34cb:e421 port 443 failed: Network unreachable)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 23 (  Trying 64:ff9b::3659:2b05...)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 25 (connect to 64:ff9b::3659:2b05 port 443 failed: Network unreachable)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 26 (  Trying 64:ff9b::22c5:a110...)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 27 (TCP_NODELAY set)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 28 (connect to 64:ff9b::22c5:a110 port 443 failed: Network unreachable)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 29 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#86))
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 30 (ALPN, offering http/1.1)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 31 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 32 (SSL re-using session ID)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 33 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 34 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-17.00.50:569][365]LogHttp: Warning: 000001BE637A82C0: libcurl info message cache 35 (Closing connection 86)
+[2020.03.28-17.00.50:868][366]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-17.01.12:945][430]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2020.03.28-17.01.12:947][430]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/PS_Map' took 0.056
+[2020.03.28-17.01.12:948][430]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.28-17.01.12:969][430]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.28-17.01.12:969][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.28-17.01.13:245][430]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto5EC1AB57D4B99D3FED187418FD16EDB1F.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto5.uasset'
+[2020.03.28-17.01.13:255][430]LogFileHelpers: Auto-saving content packages took 0.308
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 0 (  Trying 3.234.156.96...)
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.234.156.96) port 443 (#87))
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 5 (SSL re-using session ID)
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 7 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.28-17.01.50:731][543]LogHttp: Warning: 000001BE637AA340: libcurl info message cache 8 (Closing connection 87)
+[2020.03.28-17.01.51:061][544]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1E209E2A-4307-0B85-C81E-AF8F0FC7A5B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-17.04.36:878][469]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.28-17.04.37:254][469]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.03.28-17.14.41:065][108]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.28-17.14.41:473][108]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.03.28-17.15.12:728][560]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.03.28-17.15.12:730][560]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/PS_Map' took 0.045
+[2020.03.28-17.15.12:731][560]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.28-17.15.12:744][560]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.28-17.15.12:744][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.28-17.15.13:011][560]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto6C469BAC74CFCBD1B3B20E0960B21CC38.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto6.uasset'
+[2020.03.28-17.15.13:046][560]LogFileHelpers: Auto-saving content packages took 0.316
+[2020.03.28-17.48.22:424][  1]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/ALS_Cycles/InAir/ALS_N_Land_Heavy.ALS_N_Land_Heavy
+[2020.03.28-17.48.22:477][  1]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.28-17.48.22:502][  1]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.28-17.48.23:172][  1]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.28-17.48.24:307][ 97]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-17.48.24:307][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-17.48.24:349][ 97]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-17.48.24:349][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-17.48.24:508][ 97]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.03.28-17.48.24:508][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.28-17.49.42:086][354]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.28-17.49.42:627][354]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2020.03.28-17.50.07:827][439]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.03.28-17.50.07:828][439]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/PS_Map' took 0.080
+[2020.03.28-17.50.07:829][439]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.28-17.50.07:840][439]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.28-17.50.07:840][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.28-17.50.08:135][439]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto762F1034D4A2924930606448636479017.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto7.uasset'
+[2020.03.28-17.50.08:136][439]LogFileHelpers: Auto-saving content packages took 0.309
+[2020.03.28-17.50.44:761][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Blueprint/PS_CharacterAnim" FILE="../../../../../Unreal/ParkourSystem/Content/Animation/Blueprint/PS_CharacterAnim.uasset" SILENT=true
+[2020.03.28-17.50.45:023][284]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim2059C31C4615A19D5894D7BFF9DE2AA6.tmp' to '../../../../../Unreal/ParkourSystem/Content/Animation/Blueprint/PS_CharacterAnim.uasset'
+[2020.03.28-17.50.45:063][284]AssetCheck: New page: Asset Save: PS_CharacterAnim
+[2020.03.28-17.50.45:063][284]LogContentValidation: Display: Validating AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim
+[2020.03.28-17.50.45:980][363]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.28-17.50.45:997][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map' with GeneratedClass '/Game/Environment/Maps/PS_Map.PS_Map_C' with ClassGeneratedBy '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map'
+[2020.03.28-17.50.45:997][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.28-17.50.45:998][363]PIE: New page: PIE session: PS_Map (28 Mar 2020, 17:50:45)
+[2020.03.28-17.50.45:998][363]LogPlayLevel: Creating play world package: /Game/Environment/Maps/UEDPIE_0_PS_Map
+[2020.03.28-17.50.46:011][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012634s)
+[2020.03.28-17.50.46:012][363]LogAIModule: Creating AISystem for world PS_Map
+[2020.03.28-17.50.46:012][363]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2020.03.28-17.50.46:012][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment/Maps/PS_Map.PS_Map to /Game/Environment/Maps/UEDPIE_0_PS_Map.PS_Map (0.013793s)
+[2020.03.28-17.50.46:048][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.03.28-17.50.46:049][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.28-17.50.46:049][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.28-17.50.46:049][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.28-17.50.46:049][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.28-17.50.46:049][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.28-17.50.46:049][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.28-17.50.46:049][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.28-17.50.46:049][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.28-17.50.46:050][363]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.28-17.50.46:050][363]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: Is Default: Yes
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: Channel Order:
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.28-17.50.46:062][363]LogAudioMixer: Display: 1: FrontRight
+[2020.03.28-17.50.46:071][363]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.03.28-17.50.46:073][363]LogInit: FAudioDevice initialized.
+[2020.03.28-17.50.46:128][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.28-17.50.46:128][363]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.28-17.50.46:130][363]LogWorld: Bringing World /Game/Environment/Maps/UEDPIE_0_PS_Map.PS_Map up for play (max tick rate 0) at 2020.03.28-17.50.46
+[2020.03.28-17.50.46:131][363]LogWorld: Bringing up level for play took: 0.001847
+[2020.03.28-17.50.46:131][363]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.03.28-17.50.46:133][363]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.28-17.50.46:137][363]PIE: Play in editor start time for /Game/Environment/Maps/UEDPIE_0_PS_Map 0.676
+[2020.03.28-17.50.46:137][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map' with GeneratedClass '/Game/Environment/Maps/PS_Map.PS_Map_C' with ClassGeneratedBy '/Game/Environment/Maps/PS_Map.PS_Map:PersistentLevel.PS_Map'
+[2020.03.28-17.50.46:197][364]LogRenderer: Reallocating scene render targets to support 1280x884 Format 10 NumSamples 1 (Frame:1).
+[2020.03.28-17.50.49:682][683]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:692][684]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:702][685]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:713][686]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:722][687]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:733][688]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:743][689]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:753][690]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:762][691]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:774][692]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:783][693]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:793][694]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:805][695]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:817][696]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:827][697]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:839][698]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:848][699]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:859][700]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:870][701]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:879][702]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:890][703]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:900][704]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:911][705]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:921][706]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:931][707]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:942][708]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:953][709]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:962][710]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:972][711]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:983][712]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.49:993][713]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:002][714]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:014][715]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:024][716]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:034][717]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:045][718]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:056][719]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:066][720]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:077][721]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:086][722]LogPhysics: Warning: COLLISION PROFILE [PS_Character] is not found
+[2020.03.28-17.50.50:104][723]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.28-17.50.50:104][723]LogWindows: Windows GetLastError: The operation completed successfully. (0)

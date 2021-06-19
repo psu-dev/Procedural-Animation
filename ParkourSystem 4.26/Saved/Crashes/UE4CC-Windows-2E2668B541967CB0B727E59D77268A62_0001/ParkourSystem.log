@@ -1,0 +1,1072 @@
+﻿Log file open, 03/26/20 12:36:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ParkourSystem
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.149286
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.24/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.26-12.36.46:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.26-12.36.46:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.26-12.36.46:863][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.26-12.36.46:869][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.26-12.36.46:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.26-12.36.46:870][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.26-12.36.46:870][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.26-12.36.46:870][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.26-12.36.46:923][  0]LogHAL: Display: Platform has ~ 16 GB [17126236160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.26-12.36.46:923][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.26-12.36.46:923][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.26-12.36.46:923][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Scalability.ini]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.26-12.36.46:924][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.26-12.36.46:946][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.26-12.36.46:946][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.26-12.36.46:946][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/ParkourSystem/Saved/Config/Windows/Engine.ini]
+[2020.03.26-12.36.46:946][  0]LogInit: Computer: DESKTOP-JUD4AHB
+[2020.03.26-12.36.46:946][  0]LogInit: User: fixte
+[2020.03.26-12.36.46:946][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.26-12.36.46:946][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.26-12.36.46:947][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.26-12.36.46:947][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.26-12.36.46:947][  0]LogMemory: Process Physical Memory: 104.13 MB used, 104.13 MB peak
+[2020.03.26-12.36.46:947][  0]LogMemory: Process Virtual Memory: 99.73 MB used, 99.73 MB peak
+[2020.03.26-12.36.46:947][  0]LogMemory: Physical Memory: 4094.02 MB used,  12238.83 MB free, 16332.85 MB total
+[2020.03.26-12.36.46:947][  0]LogMemory: Virtual Memory: 5121.23 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.03.26-12.36.46:950][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.26-12.36.47:892][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.26-12.36.47:893][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.26-12.36.47:925][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.26-12.36.48:522][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.26-12.36.49:284][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.26-12.36.49:284][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.26-12.36.53:398][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.26-12.36.53:398][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.26-12.36.53:398][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.26-12.36.53:398][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.26-12.36.53:459][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2020.03.26-12.36.53:460][  0]LogD3D11RHI:       4053/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.26-12.36.53:462][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.26-12.36.53:462][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.26-12.36.53:462][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.26-12.36.53:466][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.26-12.36.53:466][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.26-12.36.53:466][  0]LogWindows: EnumDisplayDevices:
+[2020.03.26-12.36.53:466][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2020.03.26-12.36.53:466][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2020.03.26-12.36.53:467][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.03.26-12.36.53:467][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.03.26-12.36.53:467][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.26-12.36.53:467][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2020.03.26-12.36.53:467][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.03.26-12.36.53:467][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.03.26-12.36.53:467][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.03.26-12.36.53:509][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.26-12.36.53:509][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.26-12.36.53:571][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.26-12.36.54:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.26-12.36.54:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.26-12.36.55:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.26-12.36.55:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.26-12.36.55:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.26-12.36.55:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.26-12.36.55:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.26-12.36.55:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.26-12.36.55:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.26-12.36.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.26-12.36.55:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.26-12.36.55:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.26-12.36.55:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.26-12.36.55:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.26-12.36.55:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.26-12.36.55:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.26-12.36.55:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.26-12.36.55:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.26-12.36.55:884][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.26-12.36.56:148][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.26-12.36.56:948][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../Unreal/ParkourSystem/Intermediate/Shaders/WorkingDirectory/14152/).
+[2020.03.26-12.36.56:948][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fixte/AppData/Local/Temp/UnrealShaderWorkingDir/1CBBCE71415C5E888CDE7D952B2CD746/'.
+[2020.03.26-12.36.56:948][  0]LogXGEController: Cleaning working directory: C:/Users/fixte/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.26-12.36.56:949][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.26-12.36.56:949][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.26-12.36.56:949][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.26-12.37.00:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.26-12.37.01:671][  0]LogDerivedDataCache: Loaded boot cache 0.90s 78MB C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.26-12.37.01:671][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.26-12.37.01:671][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/ParkourSystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.26-12.37.01:671][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.26-12.37.01:671][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/ParkourSystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.26-12.37.01:671][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.26-12.37.01:821][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.26-12.37.01:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.26-12.37.01:821][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.26-12.37.01:822][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fixte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.26-12.37.01:822][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.26-12.37.01:822][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.26-12.37.01:844][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.26-12.37.01:846][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.26-12.37.01:928][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.26-12.37.02:580][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.03.26-12.37.03:092][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.26-12.37.05:407][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.26-12.37.05:407][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.26-12.37.05:407][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.26-12.37.05:407][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.26-12.37.05:407][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.26-12.37.05:785][  0]LogNetVersion: ParkourSystem 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3892487967)
+[2020.03.26-12.37.17:134][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.086176 seconds
+[2020.03.26-12.37.17:140][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.26-12.37.17:140][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.26-12.37.17:140][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.26-12.37.21:952][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.26-12.37.21:981][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.26-12.37.22:690][  0]SourceControl: Source control is disabled
+[2020.03.26-12.37.22:690][  0]SourceControl: Source control is disabled
+[2020.03.26-12.37.22:863][  0]SourceControl: Source control is disabled
+[2020.03.26-12.37.22:905][  0]SourceControl: Source control is disabled
+[2020.03.26-12.37.22:937][  0]SourceControl: Source control is disabled
+[2020.03.26-12.37.23:161][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.26-12.37.23:162][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.26-12.37.25:067][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.26-12.37.25:190][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.26-12.37.25:190][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.26-12.37.25:823][  0]LogOcInput: OculusInput pre-init called
+[2020.03.26-12.37.25:988][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.26-12.37.25:988][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.26-12.37.26:345][  0]LogEngine: Initializing Engine...
+[2020.03.26-12.37.26:346][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.26-12.37.26:347][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.26-12.37.27:291][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.26-12.37.27:362][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.26-12.37.27:420][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.26-12.37.27:420][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.26-12.37.27:420][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.26-12.37.27:420][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.26-12.37.27:420][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.26-12.37.27:420][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.26-12.37.27:420][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.26-12.37.27:420][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.26-12.37.27:421][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.26-12.37.27:421][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.26-12.37.27:431][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.26-12.37.27:444][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.03.26-12.37.27:446][  0]LogInit: FAudioDevice initialized.
+[2020.03.26-12.37.27:446][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.26-12.37.27:670][  0]LogDerivedDataCache: Saved boot cache 0.22s 78MB C:/Users/fixte/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.26-12.37.27:674][  0]LogInit: Texture streaming: Enabled
+[2020.03.26-12.37.27:883][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.26-12.37.27:883][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.26-12.37.27:884][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.26-12.37.27:995][  0]LogInit: Transaction tracking system initialized
+[2020.03.26-12.37.28:539][  0]BlueprintLog: New page: Editor Load
+[2020.03.26-12.37.29:472][  0]LocalizationService: Localization service is disabled
+[2020.03.26-12.37.30:533][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.26-12.37.30:533][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.26-12.37.32:919][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/' took 0.01s
+[2020.03.26-12.37.32:919][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.26-12.37.32:919][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.26-12.37.36:363][  0]SourceControl: Source control is disabled
+[2020.03.26-12.37.36:363][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/ParkourSystem/Content/Environment/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.26-12.37.36:364][  0]LightingResults: New page: Lighting Build
+[2020.03.26-12.37.36:364][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.26-12.37.36:364][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.26-12.37.36:364][  0]MapCheck: New page: Map Check
+[2020.03.26-12.37.36:364][  0]LightingResults: New page: Lighting Build
+[2020.03.26-12.37.36:386][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.26-12.37.40:101][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.26-12.37.40:169][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.26-12.37.40:194][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.03.26-12.37.40:195][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.26-12.37.40:195][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2020.03.26-12.37.40:195][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.832
+[2020.03.26-12.37.40:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-12.37.40:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-12.37.40:549][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-12.37.40:555][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.26-12.37.40:633][  0]LogCollectionManager: Loaded 0 collections in 0.000611 seconds
+[2020.03.26-12.37.40:643][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Saved/Collections/' took 0.00s
+[2020.03.26-12.37.40:643][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/Developers/fixte/Collections/' took 0.00s
+[2020.03.26-12.37.40:643][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ParkourSystem/Content/Collections/' took 0.00s
+[2020.03.26-12.37.40:643][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 3015 classes and 717 folders.
+[2020.03.26-12.37.40:644][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.26-12.37.41:697][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.26-12.37.41:731][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.03.26-12.37.41:883][  0]LogSlate: Took 0.106599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.26-12.37.41:922][  0]LogSlate: Took 0.037018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.26-12.37.41:934][  0]LogSlate: Took 0.008969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.26-12.37.42:248][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.26-12.37.42:433][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.26-12.37.42:433][  0]LogLoad: (Engine Initialization) Total time: 69.47 seconds
+[2020.03.26-12.37.42:433][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.26-12.37.42:625][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.26-12.37.44:851][ 32]LogAssetRegistry: Asset discovery search completed in 42.2709 seconds
+[2020.03.26-12.37.44:854][ 32]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.03.26-12.37.48:866][ 44]LogSlate: Took 0.027442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.26-12.38.21:053][480]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.26-12.38.21:069][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Blueprint/PS_Character.PS_Character
+[2020.03.26-12.38.21:457][480]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.03.26-12.38.22:752][480]LogSlate: Took 0.093844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.26-12.38.23:139][481]LogSlate: Took 0.044230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.26-12.39.28:550][ 23]LogSlate: Window 'PS_Character' being destroyed
+[2020.03.26-12.39.34:339][705]LogLinker: Warning: Failed to load '/Game/ProceduralParkour/Character/Components/Mesh/SK_Mannequin': Can't find file.
+[2020.03.26-12.39.34:339][705]LogLinker: Warning: Failed to load '/Game/ProceduralParkour/Character/Components/Mesh/SK_Mannequin': Can't find file.
+[2020.03.26-12.39.34:339][705]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ProceduralParkour/Character/Components/Mesh/SK_Mannequin.SK_Mannequin'
+[2020.03.26-12.39.35:955][882]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim
+[2020.03.26-12.39.36:111][882]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.26-12.39.36:732][882]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.26-12.39.36:733][882]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.03.26-12.39.36:976][882]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFAF9EE8E-4859-DB9F-9C67-999EEDC0F323%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: request failed, libcurl error: 0 (No error)
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1eebae17f70 [can pipeline])
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.165.171.83) port 443 (#1))
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: libcurl info message cache 6 (Closing connection 1)
+[2020.03.26-12.42.43:046][951]LogHttp: Warning: 000001EF33CF42C0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.26-12.42.43:381][952]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFAF9EE8E-4859-DB9F-9C67-999EEDC0F323%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.26-12.45.43:696][490]LogHttp: Warning: 000001EF33CF7380: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFAF9EE8E-4859-DB9F-9C67-999EEDC0F323%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.26-12.45.43:696][490]LogHttp: Warning: 000001EF33CF7380: request failed, libcurl error: 28 (Timeout was reached)
+[2020.03.26-12.45.43:696][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 0 (  Trying 100.24.251.232...)
+[2020.03.26-12.45.43:696][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.03.26-12.45.43:696][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.251.232) port 443 (#2))
+[2020.03.26-12.45.43:696][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2020.03.26-12.45.43:696][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.26-12.45.43:697][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 5 (SSL re-using session ID)
+[2020.03.26-12.45.43:697][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.26-12.45.43:697][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 7 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.03.26-12.45.43:697][490]LogHttp: Warning: 000001EF33CF7380: libcurl info message cache 8 (Closing connection 2)
+[2020.03.26-12.45.43:697][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFAF9EE8E-4859-DB9F-9C67-999EEDC0F323%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c5b582dd4837209c91cc51bd504c4928%7Cec1e572fb5204891a31823d9dee96252%7C89564554-f54a-4817-92d2-2e6a4d37066d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.26-12.57.50:276][118]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.26-12.57.50:382][118]LogAnimation: Warning: Unable to dynamically link root BaseLayer.
+[2020.03.26-12.57.50:382][118]LogAnimation: Warning: Unable to dynamically link input pose InPose.
+[2020.03.26-12.57.50:382][118]LogAnimation: Warning: Unable to dynamically link root FootIK.
+[2020.03.26-12.57.50:663][118]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.03.26-12.58.22:266][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.03.26-12.58.22:268][815]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/ThirdPersonExampleMap' took 0.041
+[2020.03.26-12.58.22:319][815]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.26-12.58.22:331][815]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.26-12.58.22:331][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.26-12.58.22:744][815]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto1321ABB9347817DA6FB3D1998431A2B00.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto1.uasset'
+[2020.03.26-12.58.22:827][815]LogFileHelpers: Auto-saving content packages took 0.559
+[2020.03.26-13.20.01:632][263]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan': Can't find file.
+[2020.03.26-13.20.01:632][263]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan': Can't find file.
+[2020.03.26-13.20.01:632][263]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.AnimMan'
+[2020.03.26-13.20.02:964][397]LogMetaData: Removing '/Game/Character/ALS_Mannequin/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton' ref from Metadata '/Game/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.PackageMetaData'
+[2020.03.26-13.20.03:010][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ALS_Mannequin/ALS_Mannequin_Skeleton" FILE="../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/ALS_Mannequin_Skeleton.uasset" SILENT=true
+[2020.03.26-13.20.03:070][397]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/ALS_Mannequin_Skeleton20A6893F4FD5B055CB136E84F6130B01.tmp' to '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/ALS_Mannequin_Skeleton.uasset'
+[2020.03.26-13.20.03:327][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.26-13.20.03:372][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.03.26-13.20.03:403][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.26-13.20.03:594][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:594][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:594][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Eyes': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Eyes': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Eyes': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Eyes': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/PhysicsAssets/AnimMan_PhysicsAsset': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/PhysicsAssets/AnimMan_PhysicsAsset': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/PhysicsAssets/AnimMan_PhysicsAsset': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/PhysicsAssets/AnimMan_PhysicsAsset': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2020.03.26-13.20.03:595][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2020.03.26-13.20.03:596][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2020.03.26-13.20.03:596][397]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton Referenced by AnimMan
+[2020.03.26-13.20.03:596][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2020.03.26-13.20.03:596][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/PhysicsAssets/AnimMan_PhysicsAsset': Can't find file.
+[2020.03.26-13.20.03:596][397]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/PhysicsAssets/AnimMan_PhysicsAsset.AnimMan_PhysicsAsset Referenced by AnimMan
+[2020.03.26-13.20.03:596][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/PhysicsAssets/AnimMan_PhysicsAsset': Can't find file.
+[2020.03.26-13.20.03:596][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:596][397]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default.M_AnimMan_Default Referenced by AnimMan
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:597][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Eyes': Can't find file.
+[2020.03.26-13.20.03:598][397]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Eyes.M_AnimMan_Eyes Referenced by AnimMan
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Eyes': Can't find file.
+[2020.03.26-13.20.03:598][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:599][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:599][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:599][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:599][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:599][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:599][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:599][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_AnimMan_Default': Can't find file.
+[2020.03.26-13.20.03:656][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin__normals': Can't find file.
+[2020.03.26-13.20.03:656][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin__normals': Can't find file.
+[2020.03.26-13.20.03:656][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin_MAT_MASKA': Can't find file.
+[2020.03.26-13.20.03:656][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin_MAT_MASKA': Can't find file.
+[2020.03.26-13.20.03:656][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin__normals': Can't find file.
+[2020.03.26-13.20.03:657][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin__normals': Can't find file.
+[2020.03.26-13.20.03:657][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin_MAT_MASKA': Can't find file.
+[2020.03.26-13.20.03:657][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin_MAT_MASKA': Can't find file.
+[2020.03.26-13.20.03:657][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin__normals': Can't find file.
+[2020.03.26-13.20.03:657][397]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals Referenced by MaterialExpressionTextureSample_0
+[2020.03.26-13.20.03:657][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin__normals': Can't find file.
+[2020.03.26-13.20.03:658][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin_MAT_MASKA': Can't find file.
+[2020.03.26-13.20.03:658][397]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA Referenced by MaterialExpressionTextureSample_4
+[2020.03.26-13.20.03:658][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Body.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_Mannequin_MAT_MASKA': Can't find file.
+[2020.03.26-13.20.03:681][397]LogMaterial: Display: Missing cached shader map for material M_Mannequin_Body, compiling. 
+[2020.03.26-13.20.03:706][397]LogMaterial: Warning: E:\Unreal\ParkourSystem\Content\Character\ALS_Mannequin\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\Materials\M_Mannequin_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.26-13.20.03:706][397]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.26-13.20.03:707][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_LOGO_CARD': Can't find file.
+[2020.03.26-13.20.03:707][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_LOGO_CARD': Can't find file.
+[2020.03.26-13.20.03:707][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4Man_Logo_N': Can't find file.
+[2020.03.26-13.20.03:707][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4Man_Logo_N': Can't find file.
+[2020.03.26-13.20.03:707][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_LOGO_CARD': Can't find file.
+[2020.03.26-13.20.03:707][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_LOGO_CARD': Can't find file.
+[2020.03.26-13.20.03:707][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4Man_Logo_N': Can't find file.
+[2020.03.26-13.20.03:708][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4Man_Logo_N': Can't find file.
+[2020.03.26-13.20.03:708][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4Man_Logo_N': Can't find file.
+[2020.03.26-13.20.03:708][397]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4Man_Logo_N.UE4Man_Logo_N Referenced by MaterialExpressionTextureSample_0
+[2020.03.26-13.20.03:708][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4Man_Logo_N': Can't find file.
+[2020.03.26-13.20.03:708][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_LOGO_CARD': Can't find file.
+[2020.03.26-13.20.03:708][397]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD Referenced by MaterialExpressionTextureSample_2
+[2020.03.26-13.20.03:708][397]LogLinker: Warning: While loading '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/M_Mannequin_Logo.uasset' failed to load '/Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4_LOGO_CARD': Can't find file.
+[2020.03.26-13.20.03:712][397]LogMaterial: Display: Missing cached shader map for material M_Mannequin_Logo, compiling. 
+[2020.03.26-13.20.03:713][397]LogMaterial: Warning: E:\Unreal\ParkourSystem\Content\Character\ALS_Mannequin\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\Materials\M_Mannequin_Logo.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.26-13.20.03:713][397]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.03.26-13.20.03:713][397]LogMaterial: Display: 	(Node TextureSample) Logo Mask> Missing input texture
+[2020.03.26-13.20.03:807][397]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/AnimMan_PhysicsAsset9735872B45B3CB90675135A70B6606CB.tmp' to '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/PhysicsAssets/AnimMan_PhysicsAsset.uasset'
+[2020.03.26-13.20.03:975][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.03.26-13.20.04:015][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.03.26-13.20.04:048][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.03.26-13.20.04:211][397]LogMetaData: Removing '/Game/Character/ALS_Mannequin/Meshes/AnimMan.AnimMan' ref from Metadata '/Game/Character/ALS_Mannequin/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.PackageMetaData'
+[2020.03.26-13.20.04:243][397]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.04:283][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ALS_Mannequin/Meshes/AnimMan" FILE="../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/Meshes/AnimMan.uasset" SILENT=true
+[2020.03.26-13.20.04:669][397]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/AnimMan8D77ED104552AE2A6641648068BFD1CC.tmp' to '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/Meshes/AnimMan.uasset'
+[2020.03.26-13.20.04:857][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.03.26-13.20.04:895][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.26-13.20.04:928][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.26-13.20.05:191][397]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/M_AnimMan_Default8CA5F7A3403AD7C0892DA48249C52364.tmp' to '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/Materials/M_AnimMan_Default.uasset'
+[2020.03.26-13.20.05:203][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ALS_Mannequin/Materials/M_AnimMan_Eyes" FILE="../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/Materials/M_AnimMan_Eyes.uasset" SILENT=true
+[2020.03.26-13.20.05:214][397]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/M_AnimMan_EyesFA01191545D184F9CDCE708A46B5118B.tmp' to '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/Materials/M_AnimMan_Eyes.uasset'
+[2020.03.26-13.20.05:241][397]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/M_Mannequin_Body0045F694467CDA3070FDA18BEAE99160.tmp' to '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/Materials/M_Mannequin_Body.uasset'
+[2020.03.26-13.20.05:266][397]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/M_Mannequin_Logo9018E74649E239272E601DAD2713D05A.tmp' to '../../../../../Unreal/ParkourSystem/Content/Character/ALS_Mannequin/Materials/M_Mannequin_Logo.uasset'
+[2020.03.26-13.20.05:758][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.03.26-13.20.05:790][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.03.26-13.20.05:822][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.26-13.20.05:854][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.03.26-13.20.05:892][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.03.26-13.20.05:924][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.03.26-13.20.06:107][397]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.26-13.20.06:108][397]LogContentValidation: Display: Validating Skeleton /Game/Character/ALS_Mannequin/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton
+[2020.03.26-13.20.06:108][397]LogContentValidation: Display: Validating PhysicsAsset /Game/Character/ALS_Mannequin/PhysicsAssets/AnimMan_PhysicsAsset.AnimMan_PhysicsAsset
+[2020.03.26-13.20.06:108][397]LogContentValidation: Display: Validating SkeletalMesh /Game/Character/ALS_Mannequin/Meshes/AnimMan.AnimMan
+[2020.03.26-13.20.06:108][397]LogContentValidation: Display: Validating Material /Game/Character/ALS_Mannequin/Materials/M_AnimMan_Default.M_AnimMan_Default
+[2020.03.26-13.20.06:108][397]LogContentValidation: Display: Validating Material /Game/Character/ALS_Mannequin/Materials/M_AnimMan_Eyes.M_AnimMan_Eyes
+[2020.03.26-13.20.06:108][397]LogContentValidation: Display: Validating Material /Game/Character/ALS_Mannequin/Materials/M_Mannequin_Body.M_Mannequin_Body
+[2020.03.26-13.20.06:108][397]LogContentValidation: Display: Validating Material /Game/Character/ALS_Mannequin/Materials/M_Mannequin_Logo.M_Mannequin_Logo
+[2020.03.26-13.20.10:943][953]LogSlate: Window 'Content Browser' being destroyed
+[2020.03.26-13.20.13:191][220]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:207][221]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:216][222]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:224][223]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:232][224]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:241][225]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:249][226]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:258][227]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:266][228]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:275][229]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:283][230]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:291][231]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:299][232]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:308][233]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:316][234]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:325][235]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:334][236]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:342][237]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:352][238]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:361][239]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:369][240]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:379][241]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:387][242]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:396][243]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:405][244]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:415][245]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:424][246]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:433][247]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:441][248]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:450][249]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:459][250]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:468][251]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:477][252]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:486][253]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:496][254]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:504][255]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:512][256]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:521][257]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:530][258]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:539][259]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:549][260]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:558][261]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:566][262]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:575][263]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:584][264]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:593][265]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:602][266]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:610][267]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:619][268]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:628][269]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:636][270]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:646][271]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:655][272]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:664][273]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:672][274]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:682][275]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:691][276]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:700][277]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:709][278]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:718][279]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:727][280]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:735][281]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:744][282]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:753][283]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:762][284]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:770][285]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:780][286]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:789][287]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:798][288]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:806][289]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:816][290]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:826][291]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:834][292]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:843][293]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:852][294]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:861][295]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:870][296]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:879][297]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:888][298]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:896][299]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:905][300]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:914][301]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:924][302]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:932][303]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:941][304]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:951][305]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:959][306]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:968][307]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:977][308]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:986][309]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.13:995][310]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:004][311]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:013][312]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:022][313]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:031][314]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:040][315]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:050][316]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:059][317]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:068][318]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:077][319]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:086][320]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:094][321]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:103][322]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:112][323]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:121][324]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:130][325]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:139][326]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:148][327]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:157][328]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:166][329]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:175][330]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:184][331]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:193][332]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:202][333]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:211][334]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:220][335]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:229][336]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:237][337]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:247][338]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:255][339]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:264][340]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:272][341]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:282][342]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:291][343]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:300][344]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:309][345]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:318][346]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:327][347]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:335][348]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:344][349]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:353][350]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:362][351]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:371][352]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:381][353]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:389][354]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:398][355]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:406][356]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:416][357]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:424][358]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:433][359]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:442][360]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:451][361]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:460][362]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:468][363]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:477][364]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:486][365]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:496][366]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:505][367]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:514][368]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:523][369]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:532][370]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:540][371]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:550][372]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:559][373]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:567][374]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:576][375]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:585][376]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:594][377]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:602][378]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:611][379]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:620][380]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:630][381]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:639][382]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:649][383]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:657][384]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:666][385]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:675][386]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:684][387]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:693][388]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:701][389]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:710][390]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:720][391]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:729][392]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:740][393]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:747][394]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:756][395]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:765][396]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:774][397]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:783][398]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:792][399]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:801][400]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:810][401]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:819][402]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:828][403]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:837][404]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:846][405]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:855][406]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:864][407]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:873][408]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:882][409]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:891][410]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:900][411]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:909][412]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:918][413]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:927][414]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:935][415]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:947][416]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:977][417]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:985][418]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.14:993][419]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:002][420]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:010][421]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:018][422]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:027][423]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:035][424]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:043][425]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:052][426]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:060][427]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:068][428]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:076][429]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:086][430]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:095][431]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:103][432]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:180][441]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:188][442]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:197][443]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:205][444]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:213][445]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:221][446]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:229][447]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:238][448]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:246][449]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:254][450]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:263][451]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:271][452]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:279][453]LogAnimation: Warning: SkeletalMesh AnimMan has no skeleton. This needs to fixed before an animation can be set
+[2020.03.26-13.20.15:310][454]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/ALS_Mannequin/Meshes/AnimMan.AnimMan
+[2020.03.26-13.20.21:869][454]LogSlate: Window 'Message' being destroyed
+[2020.03.26-13.20.21:995][454]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.03.26-13.20.25:376][454]LogSlate: Window 'Choose Skeleton' being destroyed
+[2020.03.26-13.20.25:440][454]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.26-13.20.25:849][454]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2020.03.26-13.20.28:935][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.03.26-13.20.28:936][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment/Maps/ThirdPersonExampleMap' took 0.036
+[2020.03.26-13.20.28:937][736]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/Blueprint/PS_CharacterAnim] ([1] browsable assets)...
+[2020.03.26-13.20.28:953][736]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/Blueprint/PS_CharacterAnim.PS_CharacterAnim]
+[2020.03.26-13.20.28:953][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Blueprint/PS_CharacterAnim]
+[2020.03.26-13.20.29:179][736]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/PS_CharacterAnim_Auto2DFEE24ED4394C9C60BE6BA851E31BC31.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Animation/Blueprint/PS_CharacterAnim_Auto2.uasset'
+[2020.03.26-13.20.29:180][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/ALS_Mannequin/Meshes/AnimMan] ([1] browsable assets)...
+[2020.03.26-13.20.29:180][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/ALS_Mannequin/Meshes/AnimMan]
+[2020.03.26-13.20.29:560][736]LogSavePackage: Moving '../../../../../Unreal/ParkourSystem/Saved/AnimMan_Auto28286CCF74644BC63F2D072933C1BBD95.tmp' to '../../../../../Unreal/ParkourSystem/Saved/Autosaves/Game/Character/ALS_Mannequin/Meshes/AnimMan_Auto2.uasset'
+[2020.03.26-13.20.29:560][736]LogFileHelpers: Auto-saving content packages took 0.624
+[2020.03.26-13.20.53:222][330]LogSkeletalMesh: Building Skeletal Mesh AnimMan...
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 0: 284 vertices, 1 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 1: 1136 vertices, 3 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 2: 1305 vertices, 2 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 3: 284 vertices, 1 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 4: 284 vertices, 1 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 5: 284 vertices, 1 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 6: 568 vertices, 2 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 7: 568 vertices, 2 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 8: 706 vertices, 4 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 9: 1838 vertices, 16 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 10: 326 vertices, 1 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 11: 284 vertices, 1 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 12: 284 vertices, 1 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 13: 284 vertices, 1 active bones
+[2020.03.26-13.20.53:502][330]LogSkeletalMesh: Section 14: 1838 vertices, 16 active bones
+[2020.03.26-13.20.53:503][330]LogSkeletalMesh: Section 0: Material=0, 480 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 1: Material=1, 1920 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 2: Material=2, 2320 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 3: Material=3, 480 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 4: Material=4, 480 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 5: Material=5, 480 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 6: Material=6, 960 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 7: Material=7, 960 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 8: Material=8, 1008 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 9: Material=9, 2756 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 10: Material=10, 504 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 11: Material=11, 480 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 12: Material=12, 480 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 13: Material=13, 480 triangles
+[2020.03.26-13.20.53:504][330]LogSkeletalMesh: Section 14: Material=14, 2756 triangles
+[2020.03.26-13.20.53:583][330]LogSkeletalMesh: Built Skeletal Mesh [0.36s] /Game/Character/ALS_Mannequin/Meshes/AnimMan.AnimMan
+[2020.03.26-13.21.55:422][247]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.26-13.21.55:422][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.26-13.21.59:142][635]BlueprintLog: New page: Compile PS_CharacterAnim
+[2020.03.26-13.21.59:242][635]LogAnimation: Warning: Unable to dynamically link root BaseLayer.
+[2020.03.26-13.21.59:242][635]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.26-13.21.59:243][635]LogWindows: Windows GetLastError: The operation completed successfully. (0)
